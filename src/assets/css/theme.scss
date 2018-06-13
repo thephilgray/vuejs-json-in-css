@@ -1,0 +1,6 @@
+@import '../themes.json';
+
+.hello {
+  background: map-get($dark, 'bg-color');
+  color: map-get($dark, 'text-color');
+}

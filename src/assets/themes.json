@@ -1,0 +1,12 @@
+{
+  "default": {
+    "bg-color": "white",
+    "text-color": "black",
+    "trim-color": "#9600FF"
+  },
+  "dark": {
+    "bg-color": "black",
+    "text-color": "white",
+    "trim-color": "limegreen"
+  }
+}
